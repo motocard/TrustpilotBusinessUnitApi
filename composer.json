@@ -4,7 +4,7 @@
     "require": {
         "php": ">=5.5.0",
         "guzzlehttp/guzzle": "~6.0|^7.0.1",
-        "moneymaxim/trustpilot-authenticator": "^0.1.1"
+        "motocard/trustpilot-authenticator": "^0.1.1"
     },
     "license": "MIT",
     "authors": [
