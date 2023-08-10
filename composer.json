@@ -1,6 +1,12 @@
 {
     "name": "motocard/trustpilot-business-unit-api",
     "description": "PHP integration with the Trustpilot Business Unit API",
+    "repositories": [
+        {
+            "url": "https://github.com/motocard/TrustpilotAuthenticator.git",
+            "type": "git"
+        }
+    ],
     "require": {
         "php": ">=5.5.0",
         "guzzlehttp/guzzle": "~6.0|^7.0.1",
